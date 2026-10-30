@@ -1,0 +1,6 @@
+{
+  "name": "CalcVault",
+  "description": "Private Photo & Video Vault disguised behind a fully functional calculator with AES-256-GCM encryption, biometric authentication, albums, and encrypted backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
